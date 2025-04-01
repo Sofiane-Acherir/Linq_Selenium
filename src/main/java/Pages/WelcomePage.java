@@ -22,7 +22,8 @@ public class WelcomePage extends Base {
     public WebElement emailAddressField;
     @FindBy(css = "[data-test='pageHeader:title']")
     public WebElement signInWithEmailText;
-    @FindBy(css = "[data-test='pageHeader:title']")
+
+    @FindBy(css = "ion-title[data-test='pageHeader:title']")
     public WebElement signUpText;
 
 

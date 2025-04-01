@@ -49,7 +49,7 @@
 
 ### **🖼 Evidence (Screenshots & Logs):**
 - Screenshot: `screenshotLogs_20250401_091743.png`
-- Screen recorder: `testEmailFeature-2025-04-01 09.17.38.avi`
+- Screen recorder: `testEmailFeature-2025-04-01 18.14.39.avi`
 - Console Log: "BUG-1234: System should reject invalid email but does not!"
 
 ### **💡 Note :**

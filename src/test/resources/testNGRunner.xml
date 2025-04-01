@@ -1,0 +1,10 @@
+<suite name="TestSuite">
+    <listeners>
+        <listener class-name="Utils.reporting.ExtentReporterNG"/>
+    </listeners>
+    <test name="smoke">
+        <classes>
+            <class name="test_home_page_logo.TestHomePageLogo"/>
+        </classes>
+    </test>
+</suite>
